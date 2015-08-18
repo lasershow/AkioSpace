@@ -36,6 +36,7 @@
     nickname | string
     introduction | text
     created_at | datetime
+    updated_at | datetime
 
 #### association
 
