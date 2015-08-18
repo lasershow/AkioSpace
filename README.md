@@ -10,10 +10,10 @@
    * has_many | comments
 
 * Tags
-   * has_many | prototypes  (through)tagging
+   * has_many | prototypes(through)tagging
 
 * Prototypes
-   * has_many | prototypes(through)tagging
+   * has_many | tags(through)tagging
    * has_many | comments
    * has_many | likes
    * belongs_to | user
